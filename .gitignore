@@ -1,0 +1,4 @@
+*.o
+*.tar
+push_swap
+/push_swap_tester
